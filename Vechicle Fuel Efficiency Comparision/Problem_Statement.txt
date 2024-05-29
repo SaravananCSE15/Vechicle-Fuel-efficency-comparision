@@ -1,0 +1,13 @@
+Problem Statement:
+
+Despite the growing interest in sustainability and the advancement of automotive technology, there remains a need for a centralized and comprehensive dataset that provides detailed information on engine specifications, fuel types, transmission systems, fuel efficiency, and CO2 emissions for various vehicles. This dataset would serve as a valuable resource for car enthusiasts, researchers, automotive engineers, policymakers, and environmentalists, facilitating:
+
+1. Comparative Analysis: Enable researchers and enthusiasts to compare different vehicles based on their engine specifications, fuel types, transmission systems, fuel efficiency, and CO2 emissions to make informed decisions regarding purchases, environmental impact, and technological advancements.
+
+2. Environmental Impact Assessment: Allow policymakers and environmentalists to assess the environmental impact of different vehicles based on their fuel efficiency and CO2 emissions, aiding in the development of regulations and initiatives aimed at reducing carbon footprint and promoting sustainability.
+
+3. Technological Advancements: Provide insights into the latest trends and advancements in automotive engineering by analyzing the data on engine specifications, fuel types, and transmission systems, thereby fostering innovation and progress in the automotive industry.
+
+4. Consumer Education: Educate consumers about the performance, efficiency, and environmental implications of various vehicles, empowering them to make environmentally conscious choices when purchasing or using vehicles.
+
+By addressing these needs, the proposed dataset aims to enhance understanding, promote sustainability, and drive innovation in the automotive industry while empowering consumers and policymakers to make informed decisions regarding vehicle selection and environmental impact.
